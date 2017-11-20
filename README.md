@@ -17,12 +17,18 @@ XMR-Stak-POWER will currently only compile with the GCC 6.3.1 compiler included 
 
 Here are some numbers:
 
-* **Dual POWER8 10C @ 2.8GHz, running 4 threads per core, hugepages enabled** - 3550 H/s @ 540W
-* **Dual POWER9-SMT4 16C @ ??? GHz, hugepages enabled** - 2950 H/s @ 350W (old version benchmark)
+* **Dual POWER8 10C @ 3.5GHz, running 4 threads per core, hugepages enabled** - 4150 H/s
+* **Dual POWER9 12C @ 3.5GHz, running 4 threads per core, hugepages enabled** - Being Optimized
+
 
 ## Default dev donation
 By default the miner will donate 0.88% of the hashpower.
-If you have POWER hardware available you are probably rich, so please donate to my address!
+If you have POWER hardware available you are probably rich, so please donate to my/our address!
+
+agangidi53:
+```
+4945WAJVEC6A3ZM8hwWMrV15VSJeeAvUv3fRbwwMajToCQ2usQa2tefGyx6PFQwXqMfpk7dVdxX6BBqZfYibx3JD3UKzrFk
+```
 
 nioroso-x3:
 ```
