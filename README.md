@@ -7,7 +7,7 @@ To configure the reports shown above you need to edit the httpd_port variable. T
 
 ## Installing IBM compiler
 
-XMR-Stak-POWER will currently only compile with the GCC 6.3.1 compiler included in the IBM AT10.0 developer tools. [IBM Advance Toolchain](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/W51a7ffcf4dfd_4b40_9d82_446ebc23c550/page/IBM Advance Toolchain for PowerLinux Documentation)
+XMR-Stak-POWER will currently only compile with the GCC 6.3.1 compiler included in the IBM AT10.0 developer tools. [IBM Advance Toolchain](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/W51a7ffcf4dfd_4b40_9d82_446ebc23c550/page/IBM+Advance+Toolchain+for+PowerLinux+Documentation)
 ## Compile guides
 
 - [Linux](LINUXCOMPILE.md)
