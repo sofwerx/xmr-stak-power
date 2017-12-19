@@ -1,4 +1,3 @@
-# XMR-Stak-POWER - Monero mining software for POWER8 and later
 
 XMR-Stak-POWER is a universal Stratum pool miner and a fork of XMR-Stak-CPU. There is also an [AMD GPU version](https://github.com/fireice-uk/xmr-stak-amd) and an [NVIDIA GPU version](https://github.com/fireice-uk/xmr-stak-nvidia)
 
@@ -19,33 +18,6 @@ Here are some numbers:
 
 * **Dual POWER8 10C @ 3.5GHz, running 4 threads per core, hugepages enabled** - 4150 H/s
 * **Dual POWER9 12C @ 3.5GHz, running 4 threads per core, hugepages enabled** - Being Optimized
-
-
-## Default dev donation
-By default the miner will donate 0.88% of the hashpower.
-If you have POWER hardware available you are probably rich, so please donate to my/our address!
-
-agangidi53:
-```
-4945WAJVEC6A3ZM8hwWMrV15VSJeeAvUv3fRbwwMajToCQ2usQa2tefGyx6PFQwXqMfpk7dVdxX6BBqZfYibx3JD3UKzrFk
-```
-
-nioroso-x3:
-```
-42UwBFuWj9uM7RjH15MXAFV7oLWUC9yLTArz4bmD3gbVWu1obYRUDe8K9v8StqXPhP2Uz1BJZgDQTUVhvT1cHFMBHA6aPg2
-```
-
-Original developers:
-
-fireice-uk:
-```
-4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
-```
-
-psychocrypt:
-```
-43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU
-```
 
 ## Advanced Compile Options
 

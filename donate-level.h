@@ -8,14 +8,10 @@
  * Switching is instant, and only happens after a successful connection, so you never loose any hashes.
  *
  * If you plan on changing this setting to 0.0 please consider making a one off donation to our wallets:
- * fireice-uk:
- * 4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
  * psychocrypt:
  * 43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU
- * nioroso-x3:
- * 42UwBFuWj9uM7RjH15MXAFV7oLWUC9yLTArz4bmD3gbVWu1obYRUDe8K9v8StqXPhP2Uz1BJZgDQTUVhvT1cHFMBHA6aPg2 
  * agangidi53:
  * 4945WAJVEC6A3ZM8hwWMrV15VSJeeAvUv3fRbwwMajToCQ2usQa2tefGyx6PFQwXqMfpk7dVdxX6BBqZfYibx3JD3UKzrFk
  */
 
-constexpr double fDevDonationLevel = 2.0 /100.0; 
+constexpr double fDevDonationLevel = 0.0;

@@ -174,10 +174,6 @@ void executor::on_sock_ready(size_t pool_id)
 
 	if(pool_id == dev_pool_id)
 	{
-		if(!pool->cmd_login("42UwBFuWj9uM7RjH15MXAFV7oLWUC9yLTArz4bmD3gbVWu1obYRUDe8K9v8StqXPhP2Uz1BJZgDQTUVhvT1cHFMBHA6aPg2", "donate")){
-			printer::inst()->print_msg(L1,"Failed login...");
-      pool->disconnect();
-    }
 		current_pool_id = dev_pool_id;
 		printer::inst()->print_msg(L1, "Dev pool logged in. Switching work.");
 		return;
